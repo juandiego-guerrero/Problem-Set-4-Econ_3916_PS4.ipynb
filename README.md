@@ -1,9 +1,6 @@
 # Problem-Set-4-Econ_3916_PS4.ipynb
 Problem Set 4
 
-# Econ 3916 PS4 — The Model That Fit Too Well
-
-**ECON 3916 · Applied Machine Learning for Economists · Topics 12–15**
 **Role:** Analyst, Revenue Forecasting
 
 ## The mission
